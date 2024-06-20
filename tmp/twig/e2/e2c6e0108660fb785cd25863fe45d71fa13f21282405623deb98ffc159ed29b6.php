@@ -98,6 +98,6 @@ $context["bookmark"], "getDatabase", [], "method")]]]));
 
     public function getSourceContext()
     {
-        return new Source("", "console/bookmark_content.twig", "/var/www/html/phpmyadmin/templates/console/bookmark_content.twig");
+        return new Source("", "console/bookmark_content.twig", "/data-app/ExitusFactura/phpmyadmin/templates/console/bookmark_content.twig");
     }
 }

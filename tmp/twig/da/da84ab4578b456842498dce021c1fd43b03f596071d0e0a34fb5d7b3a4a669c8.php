@@ -51,6 +51,6 @@ class __TwigTemplate_8662afa4f950a9ae0578ccd1c9361f11415c8e5c98895c53328b7c0b230
 
     public function getSourceContext()
     {
-        return new Source("", "login/footer.twig", "/var/www/html/phpmyadmin/templates/login/footer.twig");
+        return new Source("", "login/footer.twig", "/data-app/ExitusFactura/phpmyadmin/templates/login/footer.twig");
     }
 }

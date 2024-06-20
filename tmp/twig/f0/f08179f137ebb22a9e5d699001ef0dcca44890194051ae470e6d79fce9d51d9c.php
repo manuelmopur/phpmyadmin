@@ -72,6 +72,6 @@ class __TwigTemplate_a0ce4107a33f956dc240be67daf266af36adde58d5b7058499c110c2818
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/print_view_data_dictionary_link.twig", "/var/www/html/phpmyadmin/templates/database/structure/print_view_data_dictionary_link.twig");
+        return new Source("", "database/structure/print_view_data_dictionary_link.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/print_view_data_dictionary_link.twig");
     }
 }

@@ -220,6 +220,6 @@ class __TwigTemplate_c0028323c72d18463f6cdf3990a24ec8ade667189de022d34c53f2f85eb
 
     public function getSourceContext()
     {
-        return new Source("", "server/databases/databases_footer.twig", "/var/www/html/phpmyadmin/templates/server/databases/databases_footer.twig");
+        return new Source("", "server/databases/databases_footer.twig", "/data-app/ExitusFactura/phpmyadmin/templates/server/databases/databases_footer.twig");
     }
 }

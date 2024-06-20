@@ -291,6 +291,6 @@ class __TwigTemplate_040e7a1b8118e4a4ec61ad7f9696a63656676c3e517b00e6d2ad32a90d9
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/body_for_table_summary.twig", "/var/www/html/phpmyadmin/templates/database/structure/body_for_table_summary.twig");
+        return new Source("", "database/structure/body_for_table_summary.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/body_for_table_summary.twig");
     }
 }

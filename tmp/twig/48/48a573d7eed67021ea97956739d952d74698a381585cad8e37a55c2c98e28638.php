@@ -84,6 +84,6 @@ class __TwigTemplate_3e582999966b719d6cff071488b740989c2dacd1cee9c58ec00645ff0ad
 
     public function getSourceContext()
     {
-        return new Source("", "navigation/logo.twig", "/var/www/html/phpmyadmin/templates/navigation/logo.twig");
+        return new Source("", "navigation/logo.twig", "/data-app/ExitusFactura/phpmyadmin/templates/navigation/logo.twig");
     }
 }

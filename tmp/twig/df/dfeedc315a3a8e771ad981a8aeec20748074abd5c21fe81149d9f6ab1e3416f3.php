@@ -95,6 +95,6 @@ class __TwigTemplate_633d3c9f11ee0d87171ce9857051ceab1a42eb6a47ed122c87559a02f49
 
     public function getSourceContext()
     {
-        return new Source("", "console/query_action.twig", "/var/www/html/phpmyadmin/templates/console/query_action.twig");
+        return new Source("", "console/query_action.twig", "/data-app/ExitusFactura/phpmyadmin/templates/console/query_action.twig");
     }
 }

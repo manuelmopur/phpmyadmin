@@ -132,6 +132,6 @@ class __TwigTemplate_6fadbfb364a3bcfbcd9eac51beb80a0367f866a7a4b7fdecde19c21c97f
 
     public function getSourceContext()
     {
-        return new Source("", "list/item.twig", "/var/www/html/phpmyadmin/templates/list/item.twig");
+        return new Source("", "list/item.twig", "/data-app/ExitusFactura/phpmyadmin/templates/list/item.twig");
     }
 }

@@ -51,6 +51,6 @@ class __TwigTemplate_b44fd43c0bacab0b5a4bd3d57ab97e73a39f668a92b548bf7d6a8a65c23
 
     public function getSourceContext()
     {
-        return new Source("", "config/form_display/tabs_bottom.twig", "/var/www/html/phpmyadmin/templates/config/form_display/tabs_bottom.twig");
+        return new Source("", "config/form_display/tabs_bottom.twig", "/data-app/ExitusFactura/phpmyadmin/templates/config/form_display/tabs_bottom.twig");
     }
 }

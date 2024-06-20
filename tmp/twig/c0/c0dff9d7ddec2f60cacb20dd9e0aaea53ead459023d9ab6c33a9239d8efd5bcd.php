@@ -82,6 +82,6 @@ class __TwigTemplate_0aaeac7ababc0819692d62e95676b8d93bb6b9ff83daeb9c2d76df80c12
 
     public function getSourceContext()
     {
-        return new Source("", "select_all.twig", "/var/www/html/phpmyadmin/templates/select_all.twig");
+        return new Source("", "select_all.twig", "/data-app/ExitusFactura/phpmyadmin/templates/select_all.twig");
     }
 }

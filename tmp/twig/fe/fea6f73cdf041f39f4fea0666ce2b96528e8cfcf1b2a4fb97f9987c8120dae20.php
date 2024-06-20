@@ -150,6 +150,6 @@ $context["stat_name"], "sort_order" => ((((                // line 19
 
     public function getSourceContext()
     {
-        return new Source("", "server/databases/table_header.twig", "/var/www/html/phpmyadmin/templates/server/databases/table_header.twig");
+        return new Source("", "server/databases/table_header.twig", "/data-app/ExitusFactura/phpmyadmin/templates/server/databases/table_header.twig");
     }
 }

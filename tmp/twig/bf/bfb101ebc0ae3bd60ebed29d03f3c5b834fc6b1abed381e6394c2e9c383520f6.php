@@ -76,6 +76,6 @@ class __TwigTemplate_d94194668a5e482b42f9225b7ae38bc046399d99125cc39ecc153350686
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/favorite_anchor.twig", "/var/www/html/phpmyadmin/templates/database/structure/favorite_anchor.twig");
+        return new Source("", "database/structure/favorite_anchor.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/favorite_anchor.twig");
     }
 }

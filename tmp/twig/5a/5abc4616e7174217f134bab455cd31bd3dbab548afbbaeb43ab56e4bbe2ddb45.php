@@ -68,6 +68,6 @@ class __TwigTemplate_7963df3325def64038be917abdb1f71300bdbd6f7f942d6ac451b1cfabd
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/empty_table.twig", "/var/www/html/phpmyadmin/templates/database/structure/empty_table.twig");
+        return new Source("", "database/structure/empty_table.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/empty_table.twig");
     }
 }

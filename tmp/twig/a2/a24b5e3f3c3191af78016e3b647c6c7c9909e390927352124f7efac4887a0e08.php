@@ -82,6 +82,6 @@ class __TwigTemplate_79c7d366f288c107cb9b706289b0b39bae1260c5e21848655c0533c699b
 
     public function getSourceContext()
     {
-        return new Source("", "server/sub_page_header.twig", "/var/www/html/phpmyadmin/templates/server/sub_page_header.twig");
+        return new Source("", "server/sub_page_header.twig", "/data-app/ExitusFactura/phpmyadmin/templates/server/sub_page_header.twig");
     }
 }

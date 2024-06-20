@@ -65,6 +65,6 @@ class __TwigTemplate_9518551daf0aed252a4a906fff4aa092a08f7ea7dc98e5884a9d7ea1432
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/browse_table_label.twig", "/var/www/html/phpmyadmin/templates/database/structure/browse_table_label.twig");
+        return new Source("", "database/structure/browse_table_label.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/browse_table_label.twig");
     }
 }

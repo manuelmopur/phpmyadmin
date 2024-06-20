@@ -85,6 +85,6 @@ class __TwigTemplate_92ef3c2e1dbd29db488d2e8b877d16cc29c8e5fafa450c024da4b40c506
 
     public function getSourceContext()
     {
-        return new Source("", "config/form_display/fieldset_bottom.twig", "/var/www/html/phpmyadmin/templates/config/form_display/fieldset_bottom.twig");
+        return new Source("", "config/form_display/fieldset_bottom.twig", "/data-app/ExitusFactura/phpmyadmin/templates/config/form_display/fieldset_bottom.twig");
     }
 }

@@ -1,4 +1,4 @@
-/var/www/html/phpmyadmin/config.inc.php *                                                                                                                                                                                                     <?php
+/data-app/ExitusFactura/phpmyadmin/config.inc.php *                                                                                                                                                                                                     <?php
 /* vim: set expandtab sw=4 ts=4 sts=4: */
 /**
  * phpMyAdmin sample configuration, you can use it as base for
@@ -28,12 +28,12 @@ $i++;
 /* Authentication type */
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'localhost';
+//$cfg['Servers'][$i]['host'] = 'localhost:3306';
+$cfg['Servers'][$i]['host'] = '127.0.0.1';
 $cfg['Servers'][$i]['user'] = 'root';
-$cfg['Servers'][$i]['password'] = 'RyzenSoport3';
+$cfg['Servers'][$i]['password'] = 'RyzenSoport3@24';
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
-$cfg['blowfish_secret'] = 'a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6';
 
 /**
  * phpMyAdmin configuration storage settings.

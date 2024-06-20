@@ -191,6 +191,6 @@ class __TwigTemplate_e49675888bbdc39022d0f8fa07985034dd0b94469ea50ec136995b74d1c
 
     public function getSourceContext()
     {
-        return new Source("", "database/structure/check_all_tables.twig", "/var/www/html/phpmyadmin/templates/database/structure/check_all_tables.twig");
+        return new Source("", "database/structure/check_all_tables.twig", "/data-app/ExitusFactura/phpmyadmin/templates/database/structure/check_all_tables.twig");
     }
 }

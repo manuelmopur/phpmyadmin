@@ -66,6 +66,6 @@ if (typeof configScriptLoaded !== \"undefined\" && configInlineParams) loadInlin
 
     public function getSourceContext()
     {
-        return new Source("", "javascript/display.twig", "/var/www/html/phpmyadmin/templates/javascript/display.twig");
+        return new Source("", "javascript/display.twig", "/data-app/ExitusFactura/phpmyadmin/templates/javascript/display.twig");
     }
 }
