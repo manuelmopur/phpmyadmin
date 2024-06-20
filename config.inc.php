@@ -77,6 +77,8 @@ $cfg['Servers'][$i]['AllowNoPassword'] = false;
 $cfg['UploadDir'] = '';
 $cfg['SaveDir'] = '';
 
+$cfg['TempDir'] = '/data-app/ExitusFactura/phpmyadmin/tmp';
+
 /**
  * Whether to display icons or text or both icons and text in table row
  * action segment. Value can be either of 'icons', 'text' or 'both'.
